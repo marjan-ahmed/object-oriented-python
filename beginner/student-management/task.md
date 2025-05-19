@@ -55,10 +55,10 @@ A simple school management system where you manage **Teachers** and **Students**
 
 ### 🔧 Code Requirements
 
-*   Use \_\_init\_\_() constructor in every class
+*   Use `\_\_init\_\_()` constructor in every class
     
-*   Use super() to reuse the constructor of the base class
+*   Use `super()` to reuse the constructor of the base class
     
-*   Use \_\_str\_\_() in at least one class
+*   Use `\_\_str\_\_()` in at least one class
     
-*   Add a custom method greet() in both Student and Teacher to show **method overriding**
+*   Add a custom method `greet()` in both Student and Teacher to show **method overriding**
